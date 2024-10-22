@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3c4d5cdf-56ae-40fd-82e5-f5cfbbb14cb7}">
+		<property name="assetPath">
+			<value>Voice/ye-yeah.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.93315192743764175</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b4f562eb-0fac-4b89-a671-4379c6881cb5}</destination>
+		</relationship>
+	</object>
+</objects>
